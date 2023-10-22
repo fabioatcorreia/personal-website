@@ -1,0 +1,9 @@
+{
+  "name": "personal-workspaces",
+  "private": "true",
+  "type": "module",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {}
+}
