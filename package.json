@@ -5,5 +5,7 @@
   "workspaces": [
     "packages/*"
   ],
-  "scripts": {}
+  "scripts": {
+    "dev": "npm run --workspaces dev"
+  }
 }
